@@ -1,4 +1,6 @@
 ## About Me
+[[Русский]](README.md)
+
 **Professional**: [LinkedIn](https://ru.linkedin.com/in/frankov) | [GetMentor](https://getmentor.dev/mentor/pavel-frankov-158)
 
 ### 🟢 Active Projects
