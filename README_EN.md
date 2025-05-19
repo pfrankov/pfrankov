@@ -9,7 +9,8 @@
 - **🥞 Frontend Breakfasts in St. Petersburg** — regular Thursday meetups for frontend devs at Marketplace on Griboedova 8. [Community Chat](https://t.me/spb_frontend_chat)
 
 #### Telegram Bots
-- [**Remove Background**](https://t.me/RMVBCKGRND_bot) — an AI bot that removes image backgrounds quickly and cleanly in ~7 seconds.
+- [**VRTCL**](https://t.me/VRTCL_bot) — a bot that converts horizontal photos into vertical photos by drawing in the missing parts.
+- [**Remove Background**](https://t.me/RMVBCKGRND_bot) — an AI bot that removes image backgrounds quickly and cleanly in ~5 seconds.
 - [**АИшник 3000**](https://t.me/aishnik3000_bot) — a free and powerful anti-spam bot for group chats, outperforming many paid alternatives.
 - [**💋 чМок Интервью**](https://t.me/chmock_interview_bot) — an interactive bot for personalized frontend mock interviews.
 
@@ -33,7 +34,10 @@ I usually don't give solo talks, but I love hosting roundtables and panel discus
 - 🎬 Roundtable [**Podlodka Frontend Crew: Tech Interviews — Norm or Cult?**](https://www.youtube.com/watch?v=eOBBu2LLgxY)
 - 🎬 Talk [**Finding Zen While Working on Yandex Zen’s Design System**](https://www.youtube.com/watch?v=1ZxDw-wovws)
 
-🎙️ Podcast [**Frontend Weekend with Andrey Smirnov**](https://podcast.ru/e/3qRkL22AQ_O)
+#### 🎬 Доклад: Легальный Copilot для рабочего кода и документов  
+[![Видео: Павел Франков — Легальный Copilot для рабочего кода и документов](https://img.youtube.com/vi/2BeMS9gRLG8/0.jpg)](https://www.youtube.com/watch?v=2BeMS9gRLG8)
 
 #### 🎬 Talk: Universal Leveling Framework  
 [![Video: Universal Leveling Framework — Pavel Frankov — Drinkup](https://img.youtube.com/vi/dYY_0tkdcmw/0.jpg)](https://www.youtube.com/watch?v=dYY_0tkdcmw)
+
+🎙️ Podcast [**Frontend Weekend with Andrey Smirnov**](https://podcast.ru/e/3qRkL22AQ_O)
