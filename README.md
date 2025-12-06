@@ -5,7 +5,7 @@
 
 ### 🟢 Активные проекты
 #### Публичное
-- **Ежедневные стримы** — [YouTube](https://www.youtube.com/@5frankov/streams) | [Twitch](https://www.twitch.tv/pfrankov) | [VK Видео](https://vkvideo.ru/@5pfrankov)
+- **Ежедневные стримы** — [YouTube](https://www.youtube.com/@5frankov/streams) | [VK Видео](https://vkvideo.ru/@5pfrankov)
 - [**Чат вайбкодеров**](https://t.me/+qiEnmSTvH70yYTEy) — лучшее место, чтобы обсуждать последние новости в мире, где пересекается разработка и AI. [Список навайбкоженных проектов участниками чата.](https://github.com/pfrankov/awesome-vibecoders)
 - **🥞 Фронтенд-завтраки в Питере** — регулярные встречи фронтендеров по четвергам в Marketplace на Грибоедова, 8. [Чат сообщества](https://t.me/spb_frontend_chat)
 
@@ -43,5 +43,8 @@
 
 #### 🎬 Доклад: Универсальная линейка уровней  
 [![Видео: Универсальная линейка уровней — Павел Франков — Дринкап](https://img.youtube.com/vi/dYY_0tkdcmw/0.jpg)](https://www.youtube.com/watch?v=dYY_0tkdcmw)
+
+### Интервью
+🎬 [**Кофе-брейк #11 c Павлом Франковым — как устроена кухня фронтенда ВКонтакте**](https://vk.com/video-147415323_456240897)
 
 🎙️ Подкаст [**Frontend Weekend с Андреем Смирновым**](https://podcast.ru/e/3qRkL22AQ_O)
