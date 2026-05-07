@@ -9,13 +9,13 @@
 #### Последнее на GitHub
 - [**n8n-nodes-vk-teams**](https://github.com/pfrankov/n8n-nodes-vk-teams) — n8n-нода для работы с мессенджером VK Teams (VK Workspaces).
 - [**openclaw-vk**](https://github.com/pfrankov/openclaw-vk) — channel-плагин для OpenClaw для работы с ВКонтакте-ботами.
-- [**duplicalis**](https://github.com/pfrankov/duplicalis) — инструмент для поиска дублей в React-компонентах.
+- [**duplicalis**](https://github.com/pfrankov/duplicalis) — инструмент для поиска нечётких дублей React-компонентов.
 - [**slicer-copilot**](https://github.com/pfrankov/slicer-copilot) — AI-инструмент для оптимизации проектов в Bambu Studio и задач 3D-печати.
 
 #### Сообщества и публичные проекты
 - [**Чат вайбкодеров**](https://t.me/+qiEnmSTvH70yYTEy) — сообщество про AI, разработку и проекты на их пересечении. [Список проектов участников чата.](https://github.com/pfrankov/awesome-vibecoders)
 - **🥞 Фронтенд-завтраки в Питере** — регулярные офлайн-встречи фронтендеров по четвергам в Marketplace на Грибоедова, 8. [Чат сообщества](https://t.me/spb_frontend_chat)
-- **Архив стримов по вайбкодингу и AI-инструментам** — записи эфиров про Obsidian Local GPT, AI-агентов, n8n/Max, NotebookLM и практические тесты моделей вроде GPT, Gemini, Kimi и Codex. [YouTube](https://www.youtube.com/@5frankov/streams) | [VK Видео](https://vkvideo.ru/@5pfrankov)
+- **Архив стримов по вайбкодингу и AI-инструментам** — записи эфиров про разработку Obsidian-плагинов, локального суммаризатора звонков и практические тесты моделей вроде GPT, Gemini, Kimi и Codex. [YouTube](https://www.youtube.com/@5frankov/streams) | [VK Видео](https://vkvideo.ru/@5pfrankov)
 
 #### Инструменты в Telegram
 - [**AI Text Cleaner**](https://t.me/AI_text_cleaner_bot) — бот, удаляющий скрытые символы из AI-сгенерированного контента.
@@ -23,10 +23,8 @@
 - [**АИшник 3000**](https://t.me/aishnik3000_bot) — бесплатный и эффективный антиспам-бот для групповых чатов, лучше многих платных аналогов.
 
 #### Telegram-каналы
-- [**🥐 Нейрон очка**](https://t.me/neuronochka) — личный взгляд на нейронки, в основном локальные.
-- [**Пять Франков**](https://t.me/pfrankov) — о карьере и личном развитии. Ранее назывался Winterview.
+- [**Пять Франков**](https://t.me/pfrankov) — о карьере, личном развитии и нейронках. Ранее назывался Winterview.
 - [**🐕 Павел Франков и его сучки**](https://t.me/TheBestBitchesEver) — максимально личный канал с фотками и видео моих собак.
-- [**🍮 Ноль из трёх**](https://t.me/zero_of_three) — оценки блюд в кафе и ресторанах по трёхбалльной шкале, преимущественно о хороших местах, проверенных лично.
 
 ---
 
@@ -55,3 +53,5 @@
 - Генеративный канал [**Изнанка реальности**](https://t.me/upside_down_reality) — мистический, странный, пугающий.
 - Генеративный канал [**Исследование завершено**](https://t.me/research_is_complete) — забавные исследования, которых никогда не было.
 - Генеративный канал [**Хреновости**](https://t.me/hre_news) — отборные, смешные и абсурдные новости.
+- Канал [**🍮 Ноль из трёх**](https://t.me/zero_of_three) — оценки блюд в кафе и ресторанах по трёхбалльной шкале, преимущественно о хороших местах, проверенных лично.
+- [**🥐 Нейрон очка**](https://t.me/neuronochka) — бывший канал про нейронки, в основном локальные; переехал в [Пять Франков](https://t.me/pfrankov).

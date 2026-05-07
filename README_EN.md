@@ -9,13 +9,13 @@ I build communities, launch AI projects, and turn ideas into working tools.
 #### Latest on GitHub
 - [**n8n-nodes-vk-teams**](https://github.com/pfrankov/n8n-nodes-vk-teams) — an n8n node for working with VK Teams (VK Workspaces).
 - [**openclaw-vk**](https://github.com/pfrankov/openclaw-vk) — OpenClaw channel plugin for working with VK bots.
-- [**duplicalis**](https://github.com/pfrankov/duplicalis) — tool for finding duplicate code in React components.
+- [**duplicalis**](https://github.com/pfrankov/duplicalis) — a tool for finding fuzzy duplicates in React components.
 - [**slicer-copilot**](https://github.com/pfrankov/slicer-copilot) — AI-powered optimization for Bambu Studio 3D printing projects.
 
 #### Communities and Public Projects
 - [**Vibecoders Chat**](https://t.me/+qiEnmSTvH70yYTEy) — a community about AI, software, and projects built where they intersect. [A list of projects built by chat members.](https://github.com/pfrankov/awesome-vibecoders)
 - **🥞 Frontend Breakfasts in St. Petersburg** — regular in-person Thursday meetups for frontend developers at Marketplace, 8 Griboedova. [Community chat](https://t.me/spb_frontend_chat)
-- **Archive of vibecoding and AI livestreams** — recorded sessions about Obsidian Local GPT, AI agents, n8n/Max, NotebookLM, and hands-on model testing with GPT, Gemini, Kimi, and Codex. [YouTube](https://www.youtube.com/@5frankov/streams) | [VK Video](https://vkvideo.ru/@5pfrankov)
+- **Archive of vibecoding and AI livestreams** — recorded sessions about building Obsidian plugins, a local call summarizer, and hands-on model testing with GPT, Gemini, Kimi, and Codex. [YouTube](https://www.youtube.com/@5frankov/streams) | [VK Video](https://vkvideo.ru/@5pfrankov)
 
 #### Tools on Telegram
 - [**AI Text Cleaner**](https://t.me/AI_text_cleaner_bot) — a bot that removes hidden characters from AI-generated content.
@@ -23,10 +23,8 @@ I build communities, launch AI projects, and turn ideas into working tools.
 - [**AIshnik 3000**](https://t.me/aishnik3000_bot) — a free and effective anti-spam bot for group chats, better than many paid alternatives.
 
 #### Telegram Channels
-- [**🥐 Нейрон очка**](https://t.me/neuronochka) — my personal take on neural networks, mostly local ones.
-- [**Пять Франков**](https://t.me/pfrankov) — about career and personal growth. Previously called Winterview.
+- [**Пять Франков**](https://t.me/pfrankov) — about career, personal growth, and neural networks. Previously called Winterview.
 - [**🐕 Павел Франков и его сучки**](https://t.me/TheBestBitchesEver) — a very personal channel with photos and videos of my dogs.
-- [**🍮 Ноль из трёх**](https://t.me/zero_of_three) — ratings of dishes from cafes and restaurants on a three-point scale, mostly covering good places I have personally vetted.
 
 ---
 
@@ -55,3 +53,5 @@ I rarely give solo talks, but I enjoy hosting roundtables and panel discussions:
 - Generative channel [**Изнанка реальности**](https://t.me/upside_down_reality) — mystical, strange, and unsettling.
 - Generative channel [**Исследование завершено**](https://t.me/research_is_complete) — amusing research that never actually existed.
 - Generative channel [**Хреновости**](https://t.me/hre_news) — curated funny and absurd news.
+- Channel [**🍮 Ноль из трёх**](https://t.me/zero_of_three) — ratings of dishes from cafes and restaurants on a three-point scale, mostly covering good places I have personally vetted.
+- [**🥐 Нейрон очка**](https://t.me/neuronochka) — a former channel about neural networks, mostly local ones; it has moved into [Пять Франков](https://t.me/pfrankov).
