@@ -7,10 +7,10 @@
 
 ### 🟢 Активные проекты
 #### Последнее на GitHub
+- [**n8n-nodes-vk-teams**](https://github.com/pfrankov/n8n-nodes-vk-teams) — n8n-нода для работы с мессенджером VK Teams (VK Workspaces).
 - [**openclaw-vk**](https://github.com/pfrankov/openclaw-vk) — channel-плагин для OpenClaw для работы с ВКонтакте-ботами.
 - [**duplicalis**](https://github.com/pfrankov/duplicalis) — инструмент для поиска дублей в React-компонентах.
 - [**slicer-copilot**](https://github.com/pfrankov/slicer-copilot) — AI-инструмент для оптимизации проектов в Bambu Studio и задач 3D-печати.
-- [**awesome-vibecoders**](https://github.com/pfrankov/awesome-vibecoders) — курируемый список самых крутых проектов участников чата вайбкодеров.
 
 #### Сообщества и публичные проекты
 - [**Чат вайбкодеров**](https://t.me/+qiEnmSTvH70yYTEy) — сообщество про AI, разработку и проекты на их пересечении. [Список проектов участников чата.](https://github.com/pfrankov/awesome-vibecoders)

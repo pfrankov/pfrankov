@@ -7,10 +7,10 @@ I build communities, launch AI projects, and turn ideas into working tools.
 
 ### 🟢 Active Projects
 #### Latest on GitHub
+- [**n8n-nodes-vk-teams**](https://github.com/pfrankov/n8n-nodes-vk-teams) — an n8n node for working with VK Teams (VK Workspaces).
 - [**openclaw-vk**](https://github.com/pfrankov/openclaw-vk) — OpenClaw channel plugin for working with VK bots.
 - [**duplicalis**](https://github.com/pfrankov/duplicalis) — tool for finding duplicate code in React components.
 - [**slicer-copilot**](https://github.com/pfrankov/slicer-copilot) — AI-powered optimization for Bambu Studio 3D printing projects.
-- [**awesome-vibecoders**](https://github.com/pfrankov/awesome-vibecoders) — curated list of standout projects built by members of the Vibecoders chat.
 
 #### Communities and Public Projects
 - [**Vibecoders Chat**](https://t.me/+qiEnmSTvH70yYTEy) — a community about AI, software, and projects built where they intersect. [A list of projects built by chat members.](https://github.com/pfrankov/awesome-vibecoders)
