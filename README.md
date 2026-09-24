@@ -7,10 +7,10 @@
 
 ### 🟢 Активные проекты
 #### Последнее на GitHub
+- [**openclaw-vk-workspace**](https://github.com/pfrankov/openclaw-vk-workspace) — канал OpenClaw для ботов корпоративного VK Teams (VK Workspaces).
+- [**codex-microputer-adv**](https://github.com/pfrankov/codex-microputer-adv) — приложение для M5Stack Cardputer ADV: управление шестью задачами Codex по USB или Bluetooth.
 - [**n8n-nodes-vk-teams**](https://github.com/pfrankov/n8n-nodes-vk-teams) — n8n-нода для работы с мессенджером VK Teams (VK Workspaces).
 - [**openclaw-vk**](https://github.com/pfrankov/openclaw-vk) — channel-плагин для OpenClaw для работы с ВКонтакте-ботами.
-- [**duplicalis**](https://github.com/pfrankov/duplicalis) — инструмент для поиска нечётких дублей React-компонентов.
-- [**slicer-copilot**](https://github.com/pfrankov/slicer-copilot) — AI-инструмент для оптимизации проектов в Bambu Studio и задач 3D-печати.
 
 #### Сообщества и публичные проекты
 - [**Чат вайбкодеров**](https://t.me/+qiEnmSTvH70yYTEy) — сообщество про AI, разработку и проекты на их пересечении. [Список проектов участников чата.](https://github.com/pfrankov/awesome-vibecoders)
